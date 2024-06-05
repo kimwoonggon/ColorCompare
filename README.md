@@ -1,4 +1,4 @@
-# Pixel Value Inspector
+# ColorCompare - Pixel Value Inspector
 
 Pixel Value Inspector is a powerful and user-friendly tool that allows you to obtain detailed color information from any image with just a click. Simply upload an image, click anywhere on it, and instantly see the RGB and HSV values at that specific point. This tool is designed for precision and ease of use, making it perfect for graphic designers, photographers, and anyone working with digital images.
 
